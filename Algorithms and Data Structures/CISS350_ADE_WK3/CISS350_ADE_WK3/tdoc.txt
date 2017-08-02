@@ -1,0 +1,14 @@
+Initialize
+GetSpec
+SetSpec
+7
+GetSpec
+GetRoomPref
+SetRoomPref
+308
+GetRoomPref
+NewDoc
+Equal
+GetSpec
+GetRoomPref
+Quit

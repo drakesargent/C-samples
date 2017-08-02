@@ -1,0 +1,15 @@
+Creating new Ingredient
+Set name to Egg
+Set weight scale to Count
+Set amount to 2
+Name is Egg
+Scale is Count
+Amount is 2
+Copy made.
+Test value and copy are the same.
+Set name to Ground
+Set weight scale to Pound
+Set amount to 1
+Test value and copy are not the same.
+Test value: 1 Pound of Ground
+Copy value: 2 Counts of Egg

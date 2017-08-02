@@ -1,0 +1,100 @@
+Input client's sex
+Input client's full name
+Input client's phone number
+Input number of interests
+Creating array of interests
+
+Sex: M
+Full Name: Emelio Sanders
+Phone: 428-5782
+Number of Interests: 5
+Interests: Swimming, Golf, Drawing, Cooking, Reading
+
+Initializing Client's values
+sex
+full name
+phone
+numinterests
+interests
+
+M Emelio Sanders, 428-5782 5 Swimming, Golf, Drawing, Cooking, Reading
+
+Emelio Sanders              428-5782
+
+Searching for: Drawing
+Drawing found in interests
+
+Searching for: Skiing
+Skiing not found in interests
+
+Adding Client to UnsortedList
+Success
+
+Input client's sex
+Input client's full name
+Input client's phone number
+Input number of interests
+Creating array of interests
+
+Sex: M
+Full Name: Anderson Cooper
+Phone: 875-2525
+Number of Interests: 3
+Interests: Dancing, Interviews, Cooking
+
+Initializing Client's values
+sex
+full name
+phone
+numinterests
+interests
+
+M Anderson Cooper, 875-2525 3 Dancing, Interviews, Cooking
+
+Adding Client to UnsortedList
+Success
+
+Searching for Client.
+Anderson Cooper is in list.
+
+Removing Anderson Cooper from list.
+Deleted Client.
+
+Searching for Client.
+Anderson Cooper is not in list. 
+
+Adding Client to UnsortedList
+Success
+
+Length of storage list for Clients: 2
+
+Is the list full?
+No.
+
+Displaying next item in list: 
+M Emelio Sanders, 428-5782 5 Swimming, Golf, Drawing, Cooking, Reading
+
+Displaying next item in list: 
+M Anderson Cooper, 875-2525 3 Dancing, Interviews, Cooking
+
+Resetting List Index.
+Displaying next item in list: 
+M Emelio Sanders, 428-5782 5 Swimming, Golf, Drawing, Cooking, Reading
+
+Displaying next item in list: 
+M Anderson Cooper, 875-2525 3 Dancing, Interviews, Cooking
+
+Resetting List Index.
+Emptying List
+Length of storage list for Clients: 0
+
+Filling Array
+Length of storage list for Clients: 25
+
+Is the list full?
+Yes.
+
+Emptying List
+Is the list full?
+No.
+

@@ -1,0 +1,16 @@
+Initialize
+SetSpec
+7
+getAge
+setAge
+19
+getAge
+SetSpec
+7
+GetSpec
+NewPat
+Equal
+getAge
+SetSpec
+7
+Quit

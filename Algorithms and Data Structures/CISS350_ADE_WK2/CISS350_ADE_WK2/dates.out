@@ -1,0 +1,38 @@
+WELCOME TO SAM'S COMPUTER DATING SERVICE
+----------------------------------------
+Enter one of the following options:
+NEWCLIENT <sex> <name>, <phone number> <number of interests> <interests>
+UNMATCH <name>
+PRINTMATCH
+PRINTFREE
+QUIT
+UNMATCH Jason Dolan
+
+WELCOME TO SAM'S COMPUTER DATING SERVICE
+----------------------------------------
+Enter one of the following options:
+NEWCLIENT <sex> <name>, <phone number> <number of interests> <interests>
+UNMATCH <name>
+PRINTMATCH
+PRINTFREE
+QUIT
+printmatch
+
+Current Matches
+---------------
+Dorran Mikes             -matched to-     Guritrude Dalan          
+Jeff Warren              -matched to-     Nancy Caligan            
+Robert Barath            -matched to-     Roberta Flakk            
+Stannis Barath           -matched to-     Deidre Fikes             
+Poddrick Pane            -matched to-     Patricia Bane            
+Tyrial Lannis            -matched to-     Lonnie Fan               
+WELCOME TO SAM'S COMPUTER DATING SERVICE
+----------------------------------------
+Enter one of the following options:
+NEWCLIENT <sex> <name>, <phone number> <number of interests> <interests>
+UNMATCH <name>
+PRINTMATCH
+PRINTFREE
+QUIT
+quit
+

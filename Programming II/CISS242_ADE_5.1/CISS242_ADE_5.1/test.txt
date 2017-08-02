@@ -1,0 +1,30 @@
+I, Kenneth Drake-Sargent,
+am writing a program today that will need a good deal of
+testing. I really hope that it will work on the first time
+this thing is run, however I don't hold out hope because a
+program does not abide. Then I will take pains to figure
+out what really went wrong.
+I
+hope
+it
+works
+properly,
+but
+who
+really
+knows.
+I
+am
+testing
+this
+program
+out.
+I
+hope
+it
+works
+properly,
+but
+who
+really
+knows.

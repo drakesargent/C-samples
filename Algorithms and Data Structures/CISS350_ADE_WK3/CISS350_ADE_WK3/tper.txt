@@ -1,0 +1,5 @@
+Initialize
+SetName
+Henry Fuzz
+GetSpec
+Quit

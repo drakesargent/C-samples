@@ -1,0 +1,6 @@
+﻿  SourceMain.cpp
+  LList.cpp
+  Generating Code...
+c:\users\kenne\documents\visual studio 2015\projects\ciss243_dea_4.2\ciss243_dea_4.2\llist.cpp(326): warning C4715: 'LList<WeatherStats>::returnVal': not all control paths return a value
+  CISS243_DEA_4.2.vcxproj -> C:\Users\kenne\documents\visual studio 2015\Projects\CISS243_DEA_4.2\Debug\CISS243_DEA_4.2.exe
+  CISS243_DEA_4.2.vcxproj -> C:\Users\kenne\documents\visual studio 2015\Projects\CISS243_DEA_4.2\Debug\CISS243_DEA_4.2.pdb (Full PDB)

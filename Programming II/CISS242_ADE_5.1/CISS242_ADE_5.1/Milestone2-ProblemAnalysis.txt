@@ -1,0 +1,44 @@
+﻿Milestone 2 - Problem Analysis
+Synopsis
+There's an old saying that suggests, "Don't try to fix it unless you understand it." With those words of wisdom, the next milestone of our project is to study and analyze the existing system. There is always an existing system, whether computerized or manual or some of both. The problem analysis phase provides the project team with a more thorough understanding of the problems, opportunities, and/or directives that triggered the project. Indeed, the analyst frequently uncovers new problems and opportunities. The problem analysis phase may answer the questions, "Are the problems worth solving?" and "Is a new system worth building?"
+The purpose of the problem analysis phase is threefold. First and foremost, the project team must gain an appropriate understanding of the business problem domain. Second, we need to answer the question, "Are these problems (opportunities, and directives) worth solving?" Finally, we need to determine if the system is worth developing. The problem analysis phase provides the systems analyst and project team with a more thorough understanding of the problems, opportunities, and/or directives that triggered the project. In the process, they frequently uncover new problems and opportunities.
+In this milestone you will perform Cause-Effect Analysis and document your findings using the Problems, Opportunities, Objectives, and Constraints Matrix. The PIECES framework, originally developed by James Wetherbe, and then adapted by the authors, can serve as a useful tool to classify the various problems, opportunities, and directives identified in Milestone 1.
+Second, you will develop a Context Diagram to begin to understand the proposed system and whether or not it is worth developing. A Context Diagram looks at the system as a whole and how it interacts with the world around it.
+The third step in this milestone moves us from the problem analysis phase into the requirements analysis phase, which will be covered more fully in Milestone 3. You will make a list of system requirements and classify them as either functional or non-functional.
+Objectives
+After completing this milestone, you should be able to:
+* Perform Cause-Effect Analysis to be able to thoroughly understand a system's problems, opportunities, and/or directives that triggered the project.
+* Use and understand the PIECES framework for classifying problems, opportunities, and directives.
+* Complete the Problems, Opportunities, Objectives, and Constraints Matrix.
+* Create a Context Diagram for the proposed system.
+* List functional and non-functional requirements for the system.
+Prerequisites
+Before starting this milestone the following topics should be covered:
+1. The problem analysis phase - Chapters 3 and 5
+2. Problem analysis techniques - Chapter 6
+3. PIECES Framework - Chapter 3 and 5
+4. Milestone 1 Solution
+Assignment
+Now that we have completed the survey of the system and gained approval to proceed, we can attempt to gain a better understanding of the current system and to evaluate whether the proposed system is worth developing.
+Activities
+1. To complete the Problems, Opportunities, Objectives, and Constraints Matrix, use the interview presented in this milestone. Use the PIECES framework as a model to classify the problems, opportunities, and directives.
+References and Templates:
+Case Background
+Case Study Introduction
+Milestone 1 Solution
+Provided by your instructor
+Transcript of Interview with Peter Charles
+Exhibit 1.1 - Milestone 1
+Transcript of Client Technology Tracking System meeting
+Exhibit 2.1
+Templates
+Templates are availabe in the Content area under the Week 5 Case Study 2.
+Deliverables: Templates for this form is available in the Content area.
+1. Problems, Opportunities, Objectives, and Constraints Matrix
+ 
+________________
+
+
+Prepared by Gary B. Randolph for Systems Analysis & Design Methods 7 ed
+by J. L. Whitten, L. D. Bentley, & K. C. Dittman
+Copyright Irwin/McGraw-Hill 2007

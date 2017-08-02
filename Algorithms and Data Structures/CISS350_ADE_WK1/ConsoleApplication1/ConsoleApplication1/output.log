@@ -1,0 +1,52 @@
+Input product number.
+Input description.
+Input price.
+Input tax.
+
+---Variables contain---
+Product Number: 95032
+Description: Altoids
+Price: 4.99
+Tax: N
+
+Product Number set as 95032
+
+Description set as Altoids
+
+Price set as 4.99
+
+Tax set as N
+
+---Printing item object---
+95032 Altoids      4.99  N
+
+
+---Removing item data from object---
+
+Input product number.
+Input description.
+Input price.
+Input tax.
+
+---Variables contain---
+Product Number: 10358
+Description: ReuseableBag
+Price: 3.97
+Tax: T
+
+---Creating new InventoryItem---
+
+---Printing item object---
+10358 ReuseableBag 3.97  T
+
+
+Getting product number 10358
+
+Getting description ReuseableBag
+
+Getting price 3.97
+
+Getting taxable: True
+
+Getting taxable character T
+

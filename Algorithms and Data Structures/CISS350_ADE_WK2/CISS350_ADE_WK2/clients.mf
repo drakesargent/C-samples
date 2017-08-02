@@ -1,0 +1,20 @@
+M Jason Dolan, 425-9875 5 Running, Hiking, Golf, Disc Golf, Cooking
+F Nancy Caligan, 525-7854 7 Gardening, Skiing, Cooking, Drawing, Reading, Golf, Movies
+M Jeff Warren, 785-8957 9 Cooking, Diving, Swimming, Driving, Reading, Movies, Wine, Gaming, Beach
+F Janice Ward, 387-5192 6 Running, Cooking, Reading, Hiking, Gardening, Sewing
+M Robert Barath, 522-7854 5 Hunting, Drinking, Parties, Fights, Sleeping
+M Stannis Barath, 221-5448 3 Cooking, Sun, Strategy
+M Poddrick Pane, 844-5512 4 Jogging, Sword Play, Service, Cooking
+M Tyrial Lannis, 333-4522 5 Drinking, Parties, Reading, Service, Debate
+M Barriston Semy, 522-7854 5 Hunting, Drinking, Tennis, Fights, Sleeping
+M Dorran Mikes, 221-5448 3 Cooking, Poetry, Strategy
+M Cooper Peet, 844-5512 4 Jogging, Sword Play, Service, Cooking
+M Larry Tan, 333-4522 5 Drinking, Parties, Reading, Service, Debate
+F Roberta Flakk, 522-7854 5 Hunting, Drinking, Parties, Fights, Sleeping
+F Guritrude Dalan, 221-5448 3 Cooking, Poetry, Strategy
+F Patricia Bane, 844-5512 4 Jogging, Sword Play, Service, Cooking
+F Trisha Lonnis, 333-4522 5 Drinking, Parties, Reading, Service, Debate
+F Fortuna Somy, 522-7854 5 Reading, Drinking, Parties, Dancing, Sleeping
+F Deidre Fikes, 221-5448 3 Cooking, Sun, Strategy
+F Connie Piper, 844-5512 4 Jogging, Reading, Tennis, Cooking
+F Lonnie Fan, 333-4522 5 Drinking, Parties, Reading, Service, Debate

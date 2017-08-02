@@ -1,0 +1,168 @@
+INITIALIZING TEST STREAMS
+ATTEMPTING PERSON TEST: 
+-------------------------
+
+Getting next line.
+Setting name to Henry Fuzz
+Name Set
+Getting Specialty
+0
+---Exiting Person Test---
+
+ATTEMPTING DOCTOR TEST: 
+-------------------------
+
+Getting next line.
+Getting doctor specialty.
+0
+Setting doctor specialty.
+Getting doctor specialty.
+7
+Getting doctor room preference.
+0
+Setting doctor room preference.
+Getting doctor room preference.
+308
+New Doctor Here
+Test Doctor will be new doctor
+Getting doctor specialty.
+0
+Getting doctor room preference.
+0
+---Exiting Doctor Test---
+
+ATTEMPTING PATIENT TEST: 
+-------------------------
+
+Getting next line.
+Setting patient desired doctor specialty.
+Age is not yet set. Cannot assign Specialty without valid age
+Getting patient Age.
+0
+Setting patient Age.
+Getting patient Age.
+19
+Setting patient desired doctor specialty.
+Getting patient desired doctor specialty.
+7
+New Patient Here
+Test Patient will be new Patient
+Getting patient Age.
+0
+Setting patient desired doctor specialty.
+Age is not yet set. Cannot assign Specialty without valid age
+---Exiting Patient Test---
+
+ATTEMPTING PQUEUE TEST: 
+-------------------------
+
+Getting next line.
+Is the list empty
+Yes.
+Is the list full
+No.
+Getting Queue Length
+0
+Removing person from queue.
+There wasn't anyone in the queue to remove.
+Adding to the queue
+Added Adam to the queue.
+Adding to the queue
+Added Brad to the queue.
+Adding to the queue
+Added Charles to the queue.
+Adding to the queue
+Added Dillon to the queue.
+Adding to the queue
+Added Enrique to the queue.
+Adding to the queue
+Added Frank to the queue.
+Getting Queue Length
+6
+Removing person from queue.
+Adam removed from the queue.
+Removing person from queue.
+Brad removed from the queue.
+Removing person from queue.
+Charles removed from the queue.
+Removing person from queue.
+Dillon removed from the queue.
+Removing person from queue.
+Enrique removed from the queue.
+Removing person from queue.
+Frank removed from the queue.
+Bound checking queue add
+boundary beyond 100
+Bound checking queue add
+boundary beyond 900
+Bound checking queue add
+boundary beyond 1000
+Bound checking queue add
+boundary beyond 3000
+Bound checking queue add
+boundary beyond 5000
+Is the list full
+No.
+Getting Queue Length
+10000
+Is the list empty
+No.
+Emptying list
+Is the list empty
+Yes.
+---Exiting Patient Queue Test---
+
+ATTEMPTING EXAMROOM TEST: 
+-------------------------
+
+Getting next line.
+Displaying if Exam Room has a Doctor.
+No.
+Displaying if Exam Room has a Patient.
+No.
+Displaying if patients are in Exam Room queue.
+No.
+Displaying Exam Room Number.
+0
+Setting Exam Room Number.
+Displaying Exam Room Number.
+101
+Getting Exam Room Specialization.
+0
+Setting Doctor for Exam Room.
+Displaying if Exam Room has a Doctor.
+Yes.
+Getting Exam Room Specialization.
+7
+Displaying number of patients in Exam Room queue.
+0
+Adding Patient to exam Room Queue.
+Patient Adam is enqueued.
+Adding Patient to exam Room Queue.
+Patient Brian is enqueued.
+Adding Patient to exam Room Queue.
+Patient Charles is enqueued.
+Adding Patient to exam Room Queue.
+Patient David is enqueued.
+Displaying number of patients in Exam Room queue.
+4
+Setting next Patient in the Exam Room.
+Displaying number of patients in Exam Room queue.
+3
+Displaying if Exam Room has a Patient.
+Yes.
+Displaying current Patient in Exam Room.
+Adam
+Clearing current Patient from Exam Room.
+Displaying if Exam Room has a Patient.
+No.
+Setting next Patient in the Exam Room.
+Displaying current Patient in Exam Room.
+Brian
+Clearing current Patient from Exam Room.
+Clearing current Doctor from Exam Room.
+Displaying if Exam Room has a Doctor.
+No.
+---Exiting Exam Room Test---
+
+---END OF TESTING---

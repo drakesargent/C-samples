@@ -1,0 +1,21 @@
+Initialize
+SetName
+Egg
+SetScale
+5
+SetAmount
+2
+GetName
+GetScale
+GetAmount
+Copy
+Equal
+SetName
+Ground Beef
+SetScale
+4
+SetAmount
+1
+Equal
+Print
+Quit

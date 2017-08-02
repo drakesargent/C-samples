@@ -1,0 +1,74 @@
+Invent.dat opened successfully.
+
+Item 10001 HamburgerHpr 2.25  N added.
+Item 10002 CupOfNoodles 0.75  N added.
+Item 10003 CandyBarChlt 0.99  N added.
+Item 10004 ShnyBalloons 1.85  T added.
+Item 10005 FreezerSalmn 3.25  N added.
+Item 10006 AA8Batteries 5.39  T added.
+Item 10007 AA6Batteries 4.49  T added.
+Item 10008 AA4Batteries 3.59  T added.
+Item 10009 AA2Batteries 2.69  T added.
+Item 10010 AAA8Batterys 5.49  T added.
+Item 10011 AAA6Batterys 4.39  T added.
+Item 10012 AAA4Batterys 3.29  T added.
+Item 10013 AAA2Batterys 2.19  T added.
+Item 10014 24PKSodaClsc 4.99  N added.
+Item 10015 12PKSodaClsc 2.75  N added.
+Item 10016 6PKSodaClasc 1.99  N added.
+Item 10017 20OZSodaClsc 0.99  N added.
+Item 10018 24PKLTSodaCl 4.99  N added.
+Item 10019 12PKLTSodaCl 2.75  N added.
+Item 10020 6KPLTSodaCls 1.99  N added.
+Item 10021 20OZLTSodaCl 0.99  N added.
+Item 10022 12PKLimeDrip 2.75  N added.
+Item 10023 20OZLimeDrip 0.99  N added.
+Item 10024 GreetingCard 1.39  T added.
+Item 10025 BudgetFRoses 5.99  T added.
+Item 10026 FancyDNRoses 9.99  T added.
+Item 10027 SgrFreeCooki 3.79  N added.
+Item 10028 WholeMooMilk 2.97  N added.
+Item 10029 HalfMooMMilk 2.94  N added.
+Item 10030 ChocolatMilk 3.49  N added.
+10014 24PKSodaClsc 4.99  N exists. Not added to inventory.
+10015 12PKSodaClsc 2.75  N exists. Not added to inventory.
+10016 6PKSodaClasc 1.99  N exists. Not added to inventory.
+Item 10031 FundaMintAll 2.78  T added.
+Item 10032 WipeAwBleach 1.97  T added.
+Item 10033 SeeThruSpray 2.78  T added.
+Item 10034 GooOnAllSurf 3.98  T added.
+Item 10035 SoakInSponge 2.87  T added.
+Item 10036 AllDairyMilk 3.52  N added.
+Item 10037 GardenGnomes 14.93 T added.
+Item 10038 SavoryMashed 6.85  N added.
+Item 10039 FondueForTwo 9.57  N added.
+Item 10040 BSourChicken 5.72  N added.
+Item 10041 RoundHairBsh 7.92  T added.
+Item 10042 SilverHairTy 3.97  T added.
+Item 10043 YummyJelBuns 4.99  N added.
+Item 10044 TubeOCookies 3.97  N added.
+Item 10045 StacxChipCsp 2.79  N added.
+Item 10046 MarksMenPens 8.27  T added.
+Item 10047 SteelPrClips 5.67  T added.
+Item 10048 BouncyRbrBds 3.72  T added.
+Item 10049 WaxyRCandles 2.99  T added.
+Item 10050 ClingFilmRed 3.97  T added.
+
+
+------------------------------------------
+Sat Jul  1 13:25:31 2017
+Customer 1
+*** qty exceeds bounds of 1 to 100 ***
+12PKLTSodaCl      1 @   2.75    2.75
+*** qty exceeds bounds of 1 to 100 ***
+24PKLTSodaCl      1 @   4.99    4.99
+*** qty exceeds bounds of 1 to 100 ***
+AAA2Batterys      1 @   2.19    2.19 TX
+AAA4Batterys      7 @   3.29   23.03 TX
+                    Subtotal       32.96
+                    Tax             1.89
+
+          Total          34.85
+
+
+------------------------------------------
